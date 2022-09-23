@@ -1,4 +1,4 @@
-### Completed this [Unit 1](https://developer.android.com/courses/android-basics-kotlin/unit-1) of developer.android.com
+### ✅ Completed this [Unit 1](https://developer.android.com/courses/android-basics-kotlin/unit-1) of developer.android.com
 
 Project: Lemonade App - Starter Code
 ==================================
