@@ -1,5 +1,9 @@
 ### ✅ Completed this [Unit 1](https://developer.android.com/courses/android-basics-kotlin/unit-1) of developer.android.com
 
+### Quick Access Links
+[MainActivity.kt](/app/src/main/java/com/example/lemonade/MainActivity.kt)
+
+[activity_main.xml](/app/src/main/res/layout/activity_main.xml)
 
 ⬇ --Default Readme that came with it -- ⬇
 
